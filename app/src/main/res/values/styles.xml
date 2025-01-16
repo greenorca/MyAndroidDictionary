@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="green_button" parent="ThemeOverlay.AppCompat">
+        <!-- Set background color -->
+        <item name="android:colorAccent">#006600</item>
+        <item name="android:backgroundTint">#006600</item>
+        <!-- Set text color -->
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
